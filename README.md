@@ -2,8 +2,8 @@
 
 ## Project Description
 
-Parallel programming is a key approach for speeding up numerical algorithms. This pa-
-per focuses on parallelizing a program designed to solve the two-dimensional shallow water
+Parallel programming is a key approach for speeding up numerical algorithms. This project
+focuses on parallelizing a program designed to solve the two-dimensional shallow water
 equation, which serves as an example of a conservation law. The equation is tackled using finite
 difference and finite volume techniques, applying schemes such as the Lax-Friedrichs and
 Lax-Wendroff methods (we exploit 3 algorithms). The parallel implementation employs both
